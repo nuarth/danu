@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio - Kurniawan Ivan Danuartha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .profile-info {
+            background-color: #fff;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .profile-info h2 {
+            margin-top: 0;
+        }
+        .profile-info p {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Portofolio</h1>
+</header>
+
+<div class="container">
+    <div class="profile-info">
+        <h2>Informasi Personal</h2>
+        <p>Nama: Kurniawan Ivan Danuartha</p>
+        <p>Kelas: M</p>
+        <p>NIM: 2301010197</p>
+        <p>Hobi: Tidur</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2023 Portofolio. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
